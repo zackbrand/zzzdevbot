@@ -1,0 +1,16 @@
+{
+  "name": "zzzdevbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "latest",
+    "dotenv": "latest"
+  }
+}

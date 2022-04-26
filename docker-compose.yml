@@ -1,0 +1,7 @@
+services:
+  s-zzzdevbot:
+    container_name: c-zzzdevbot
+    image: i-zzzdevbot
+    hostname: zzzdevbot
+    volumes:
+      - ./src:/app/src
